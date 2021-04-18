@@ -16,7 +16,7 @@ public class MyGitClass {
 		System.out.println("C team....");
 		
 		System.out.println("Yeni brach");
-	
+	System.out.println("sdjgs");
 	}
 
 }
