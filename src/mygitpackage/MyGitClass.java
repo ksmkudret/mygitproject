@@ -14,6 +14,8 @@ public class MyGitClass {
 		System.out.println("A team....");
 		System.out.println("B team....");
 		System.out.println("C team....");
+		
+		System.out.println("Yeni brach");
 	
 	}
 
